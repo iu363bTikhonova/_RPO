@@ -11,3 +11,7 @@
 0	2	0	clean	773ac8d2acb5b8c0
 2	2976	1712401403176772797	CMakeFiles/fclient.dir/native-lib.cpp.o	ca9fcf8ccc4a5dbf
 2976	3086	1712401403304776698	/home/user_1/AndroidStudioProjects/fclient/app/build/intermediates/cxx/Debug/2t1c4y3r/obj/x86_64/libfclient.so	ea6b8e95bc13f70e
+0	531	0	clean	773ac8d2acb5b8c0
+0	3	0	clean	773ac8d2acb5b8c0
+1	5441	1712410489577944537	CMakeFiles/fclient.dir/native-lib.cpp.o	ca9fcf8ccc4a5dbf
+5441	5741	1712410489897944424	/home/user_1/AndroidStudioProjects/fclient/app/build/intermediates/cxx/Debug/2t1c4y3r/obj/x86_64/libfclient.so	ea6b8e95bc13f70e
