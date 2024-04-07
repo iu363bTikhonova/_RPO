@@ -1,0 +1,13 @@
+# ninja log v5
+14	8001	1712315020075120663	CMakeFiles/fclient.dir/native-lib.cpp.o	ca9fcf8ccc4a5dbf
+8002	11063	1712315023131167342	/home/user_1/AndroidStudioProjects/fclient/app/build/intermediates/cxx/Debug/2t1c4y3r/obj/x86_64/libfclient.so	ea6b8e95bc13f70e
+2	4046	1712349638617963756	CMakeFiles/fclient.dir/native-lib.cpp.o	ca9fcf8ccc4a5dbf
+4046	4150	1712349638761963378	/home/user_1/AndroidStudioProjects/fclient/app/build/intermediates/cxx/Debug/2t1c4y3r/obj/x86_64/libfclient.so	ea6b8e95bc13f70e
+0	4	0	clean	773ac8d2acb5b8c0
+0	2	0	clean	773ac8d2acb5b8c0
+2	22300	1712401291975740142	CMakeFiles/fclient.dir/native-lib.cpp.o	ca9fcf8ccc4a5dbf
+22301	32009	1712401301863667831	/home/user_1/AndroidStudioProjects/fclient/app/build/intermediates/cxx/Debug/2t1c4y3r/obj/x86_64/libfclient.so	ea6b8e95bc13f70e
+0	15	0	clean	773ac8d2acb5b8c0
+0	2	0	clean	773ac8d2acb5b8c0
+2	2976	1712401403176772797	CMakeFiles/fclient.dir/native-lib.cpp.o	ca9fcf8ccc4a5dbf
+2976	3086	1712401403304776698	/home/user_1/AndroidStudioProjects/fclient/app/build/intermediates/cxx/Debug/2t1c4y3r/obj/x86_64/libfclient.so	ea6b8e95bc13f70e
